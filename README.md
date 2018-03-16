@@ -7,6 +7,6 @@
 Axxess is built on the excellent Java library [Jackcess](http://jackcess.sourceforge.net/).
 
 
-- Example 1: [Access to csv](https://nbviewer.jupyter.org/github/DANS-repo/axxess-jupyter/blob/master/acc2csv.ipynb?flush_cache=true) Convert MS Access to csv. Read data and database metadata all from the comfort of your Notebook.
+- [Access to csv](https://nbviewer.jupyter.org/github/DANS-repo/axxess-jupyter/blob/master/acc2csv.ipynb?flush_cache=true) Convert MS Access to csv. Read data and database metadata all from the comfort of your Notebook.
 
 
