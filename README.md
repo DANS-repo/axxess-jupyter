@@ -1,4 +1,4 @@
-# Axxess-jupyter
+# Axxess-Jupyter
 
 #### Example uses of Axxess in a Jupyter notebook
 
